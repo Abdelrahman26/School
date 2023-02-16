@@ -1,0 +1,40 @@
+﻿@using Acc.DAL
+@using Acc.BL
+@model StudentCourseWriteDto
+@{
+    ViewBag.title = "Create Student";
+}
+
+
+<form method="post" class="form"> 
+    <div class = "form">
+        <input asp-for="Name" placeholder="Name" />
+        <input asp-for="Age" placeholder="Age" />
+        <input asp-for="DOB" placeholder="BOD" />
+        <input asp-for="Gender" placeholder="Gender" />
+        <input asp-for="level" placeholder="level" />
+    </div>
+    <br />
+    <div id="Crs">
+        <select asp-for="courseWriteDtos[0].CrsId" asp-items="ViewBag.courses">
+            <option>Select Course</option>
+        </select>
+        <input asp-for="courseWriteDtos[0].Crs_length" placeholder="Crs_length" />
+        <input asp-for="courseWriteDtos[0].StartTime" placeholder="StartTime" />
+        <select asp-for="courseWriteDtos[0].TeacherId" asp-items="ViewBag.teachers">
+            <option>Select Teacher</option>
+        </select>
+        <br />
+        @*<select asp-for="courseWriteDtos[1].CrsId" asp-items="ViewBag.courses">
+            <option>Select Course</option>
+        </select>
+        <input asp-for="courseWriteDtos[1].Crs_length" placeholder="Crs_length" />
+        <input asp-for="courseWriteDtos[1].StartTime" placeholder="StartTime" />
+        <select asp-for="courseWriteDtos[1].TeacherId" asp-items="ViewBag.teachers">
+        <option>Select Teacher</option>
+        </select>
+        *@
+    </div>
+    <a href="#" id="add_more_field"><i>Add Another Cource</a><br>
+    <input type="submit" value="Add Student" />
+</form>

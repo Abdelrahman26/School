@@ -1,0 +1,14 @@
+E:\VSCode_projects\Acc\Acc.DAL\bin\Debug\net6.0\Acc.DAL.deps.json
+E:\VSCode_projects\Acc\Acc.DAL\bin\Debug\net6.0\Acc.DAL.runtimeconfig.json
+E:\VSCode_projects\Acc\Acc.DAL\bin\Debug\net6.0\Acc.DAL.dll
+E:\VSCode_projects\Acc\Acc.DAL\bin\Debug\net6.0\Acc.DAL.pdb
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.csproj.AssemblyReference.cache
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.AssemblyInfoInputs.cache
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.AssemblyInfo.cs
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.csproj.CoreCompileInputs.cache
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.dll
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\refint\Acc.DAL.dll
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.pdb
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\Acc.DAL.genruntimeconfig.cache
+E:\VSCode_projects\Acc\Acc.DAL\obj\Debug\net6.0\ref\Acc.DAL.dll

@@ -1,0 +1,15 @@
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.csproj.AssemblyReference.cache
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.AssemblyInfoInputs.cache
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.AssemblyInfo.cs
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.csproj.CoreCompileInputs.cache
+E:\VSCode_projects\Acc\Acc.BL\bin\Debug\net6.0\Acc.BL.deps.json
+E:\VSCode_projects\Acc\Acc.BL\bin\Debug\net6.0\Acc.BL.dll
+E:\VSCode_projects\Acc\Acc.BL\bin\Debug\net6.0\Acc.BL.pdb
+E:\VSCode_projects\Acc\Acc.BL\bin\Debug\net6.0\Acc.DAL.dll
+E:\VSCode_projects\Acc\Acc.BL\bin\Debug\net6.0\Acc.DAL.pdb
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.csproj.CopyComplete
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.dll
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\refint\Acc.BL.dll
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\Acc.BL.pdb
+E:\VSCode_projects\Acc\Acc.BL\obj\Debug\net6.0\ref\Acc.BL.dll
